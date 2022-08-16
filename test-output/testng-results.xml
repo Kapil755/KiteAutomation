@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51187" started-at="2022-03-30T11:46:49 IST" finished-at="2022-03-30T11:47:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51187" started-at="2022-03-30T11:46:49 IST" finished-at="2022-03-30T11:47:41 IST">
+      <class name="testClasses.LoginTestCases1">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testClasses.LoginTestCases1@687080dc]" name="openBrowser" is-config="true" duration-ms="42766" started-at="2022-03-30T11:46:50 IST" finished-at="2022-03-30T11:47:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="waiting()[pri:0, instance:testClasses.LoginTestCases1@687080dc]" name="waiting" is-config="true" duration-ms="1463" started-at="2022-03-30T11:47:32 IST" finished-at="2022-03-30T11:47:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting -->
+        <test-method status="PASS" signature="TC01()[pri:0, instance:testClasses.LoginTestCases1@687080dc]" name="TC01" duration-ms="1759" started-at="2022-03-30T11:47:34 IST" finished-at="2022-03-30T11:47:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="waiting1()[pri:0, instance:testClasses.LoginTestCases1@687080dc]" name="waiting1" is-config="true" duration-ms="402" started-at="2022-03-30T11:47:36 IST" finished-at="2022-03-30T11:47:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting1 -->
+        <test-method status="PASS" signature="waiting()[pri:0, instance:testClasses.LoginTestCases1@687080dc]" name="waiting" is-config="true" duration-ms="33" started-at="2022-03-30T11:47:36 IST" finished-at="2022-03-30T11:47:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting -->
+        <test-method status="PASS" signature="TC02()[pri:0, instance:testClasses.LoginTestCases1@687080dc]" name="TC02" duration-ms="806" started-at="2022-03-30T11:47:36 IST" finished-at="2022-03-30T11:47:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method status="PASS" signature="waiting1()[pri:0, instance:testClasses.LoginTestCases1@687080dc]" name="waiting1" is-config="true" duration-ms="312" started-at="2022-03-30T11:47:37 IST" finished-at="2022-03-30T11:47:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting1 -->
+        <test-method status="PASS" signature="waiting()[pri:0, instance:testClasses.LoginTestCases1@687080dc]" name="waiting" is-config="true" duration-ms="320" started-at="2022-03-30T11:47:37 IST" finished-at="2022-03-30T11:47:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting -->
+        <test-method status="PASS" signature="TC03()[pri:0, instance:testClasses.LoginTestCases1@687080dc]" name="TC03" duration-ms="608" started-at="2022-03-30T11:47:38 IST" finished-at="2022-03-30T11:47:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method status="PASS" signature="waiting1()[pri:0, instance:testClasses.LoginTestCases1@687080dc]" name="waiting1" is-config="true" duration-ms="337" started-at="2022-03-30T11:47:38 IST" finished-at="2022-03-30T11:47:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waiting1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testClasses.LoginTestCases1@687080dc]" name="closeBrowser" is-config="true" duration-ms="2183" started-at="2022-03-30T11:47:38 IST" finished-at="2022-03-30T11:47:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testClasses.LoginTestCases1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
